@@ -41,6 +41,11 @@ module.exports = {
 - `type array`
 - `default ['woff', 'woff2', 'eot', 'ttf', 'otf']`
 
+**parser**
+
+- `type object`
+- [webpack.rule.parser](https://webpack.js.org/configuration/module/#ruleparser)
+
 **generator**
 
 - `type object`
